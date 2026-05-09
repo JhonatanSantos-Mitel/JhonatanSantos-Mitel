@@ -21,7 +21,7 @@ Software Engineer focused on **building intelligent systems and developer toolin
 
 ### Current Learning
 
-- LLM systems & RAG
+- LLM systems & AI engineering
 - Scalable architecture
 - Offensive security
 - UX & developer experience
